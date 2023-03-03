@@ -1,0 +1,9 @@
+<?php
+function luas (){
+    $p = 5;
+    $l = 7;
+    echo "$p*$l";
+
+}
+luas();
+?>
